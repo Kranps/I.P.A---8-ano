@@ -1,0 +1,27 @@
+{
+  "name": "StarDust",
+  "version": "0.0.1",
+  "description": "BOT OFICIAL '-'",
+  "main": "BOT.js",
+  "scripts": {
+    "start": "node BOT.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
